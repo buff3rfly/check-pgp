@@ -1,6 +1,6 @@
 Just a small script to check if someone has a PGP Key uploaded to some keyserver
 
-
+```
 bash check-pgp.sh 
 Mail address: <Mail>
 Searching for PGP Keys for: <Mail>
@@ -28,3 +28,4 @@ Version: Hockeypuck x.x
 <Key>
 -----END PGP PUBLIC KEY BLOCK-----
 ----------------------------------------
+```
